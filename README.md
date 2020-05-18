@@ -1,5 +1,11 @@
 # Makersbnb
 
+## Instructions
+
+* Clone repository
+* Run `rails server`
+* Open `http://localhost:3000` in your browser of choice
+
 ## User Stories
 
 Any signed-up user can list a new space.
