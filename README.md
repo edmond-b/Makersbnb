@@ -4,12 +4,13 @@
 
 * Clone repository
 * Run `rails server`
-* Open `http://localhost:3000` in your browser of choice
+* Open [http://localhost:3000](http://localhost:3000) in your browser of choice
 
 ## User Stories
 
 Any signed-up user can list a new space.
-```As a user
+```
+As a user
 So i can use makersbnb
 I would like to register for an account
 ```
